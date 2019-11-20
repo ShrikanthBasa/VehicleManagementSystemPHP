@@ -1,0 +1,31 @@
+body{
+font-family: helvetica;
+width: 100%;
+}
+.navbar{
+  background-color: #283843;
+  z-index: 2;
+}
+.btn-secondary{
+  background-color: #283843!important;
+  border: none;
+  margin: 0px 10px 0px 10px;
+}
+.navTitle{
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 1.7em;
+  color: white;
+}
+.col{
+  float: right;
+}
+.backImg{
+	width:100%;
+	background-size:cover;
+  height: 600px;
+}
+
+#myFooter{
+  color: black;
+}
