@@ -1,0 +1,5 @@
+1] You should have Xampp installed in your system
+2] Create new database and name it 'VehicleMNG'
+3] Import vehicleMGN.sql file into it (.sql file is in Mysql Database file folder)
+4] Move/copy the project folder into c:\Xampp\htdocs
+5] Go to browser and open the website
